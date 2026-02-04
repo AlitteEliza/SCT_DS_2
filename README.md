@@ -1,70 +1,56 @@
-Internship Task 2 – Data Analysis & Visualization
-Project Overview
+# Task 02: Data Analysis and Model Training
 
-This repository contains the work completed for Task 2 of my Data Science Internship.
-The objective of this task was to analyze the given dataset, perform data preprocessing, and extract meaningful insights using Python.
+## Internship Task Overview
+This project is part of my Data Science Internship at SkillCraft Technology.  
+The objective of Task 02 is to analyze the dataset and perform basic data preprocessing and model training using Python.
 
-Objectives
+## Objective
+- Understand the structure of the dataset.
+- Perform data cleaning and preprocessing.
+- Analyze important features in the data.
+- Train a basic machine learning model.
+- Evaluate model performance.
 
-Load and explore the dataset
+## Dataset Description
+The dataset used in this task contains training data stored in `train.csv`.
 
-Handle missing and inconsistent data
+It includes multiple features used for analysis and prediction.
 
-Perform data cleaning and preprocessing
+## Tasks Performed
+- Loaded and explored the dataset.
+- Checked for missing values.
+- Performed data preprocessing.
+- Selected important features.
+- Trained a basic machine learning model.
+- Evaluated the model using performance metrics.
 
-Conduct exploratory data analysis (EDA)
+## Tools and Technologies Used
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib / Seaborn  
+- Scikit-learn  
+- Jupyter Notebook  
 
-Create visualizations
+## Key Insights
+- The dataset was successfully cleaned and prepared.
+- Important features were identified.
+- The trained model achieved reasonable accuracy.
+- Data preprocessing improved model performance.
 
-Generate insights from the data
+## Conclusion
+This task helped in understanding the complete workflow of a basic machine learning project, from data loading to model evaluation.
 
-Files Included
+It improved my knowledge of:
+- Data preprocessing techniques
+- Feature selection
+- Machine learning fundamentals
+- Model evaluation methods
 
-Task2.ipynb – Jupyter Notebook containing complete implementation
+## Intern Details
+- Name: Alitte Elizabath Thomas  
+- Domain: Data Science  
+- Organization: SkillCraft Technology  
+- Task: Task 02 – Data Analysis and Model Training  
 
-train.csv – Dataset used for analysis
-
-README.md – Project documentation
-
-Tools & Technologies Used
-
-Python
-
-Jupyter Notebook
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Seaborn
-
-Steps Performed
-
-Imported required libraries
-
-Loaded the dataset
-
-Checked for missing values
-
-Cleaned and prepared data
-
-Performed statistical analysis
-
-Visualized important patterns
-
-Interpreted results
-
-Results & Insights
-
-Identified key trends and patterns in the dataset
-
-Detected missing and duplicate values
-
-Improved data quality through preprocessing
-
-Created meaningful visual representations
-
-Derived conclusions based on analysis
 # SCT_DS_2
